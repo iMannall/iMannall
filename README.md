@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Manal! 👋
 
-<!--
-**iMannall/iMannall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Applied Linguistics  
+💻 Exploring Software Development and Programming  
+🌱 Currently learning Python and GitHub  
+🇸🇦 Based in Saudi Arabia
 
-Here are some ideas to get you started:
+### About Me
+I'm interested in technology, programming, and continuous learning. I'm currently building my technical skills and exploring the world of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Goals
+- Learn Python and programming fundamentals.
+- Develop practical projects.
+- Improve my Git and GitHub skills.
+- Participate in collaborative tech communities.
+
